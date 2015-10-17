@@ -1,8 +1,3 @@
-Simran Vasir bartemeus@gmail.com 20373080
-Gurkaran Poonia gurkaran.poonia@gmail.com 49878101
-PARTNER: c9e8
-
-
 run the cshttp program with a port number from the command line like so:
 ./cshttp 80
 
